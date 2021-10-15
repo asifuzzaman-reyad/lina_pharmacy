@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "348687899276",
+    "project_id": "lina-pharmacy",
+    "storage_bucket": "lina-pharmacy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348687899276:android:7dfd24f0267ebfbd9079a9",
+        "android_client_info": {
+          "package_name": "com.example.lina_pharmacy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348687899276-fbbu9rnatob7lfot8d39brrrg83e2qhs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBBMbz91JkQrRuLzy-kI5zzP7uTUGJhSM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "348687899276-fbbu9rnatob7lfot8d39brrrg83e2qhs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
